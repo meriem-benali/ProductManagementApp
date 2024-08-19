@@ -1,0 +1,46 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+  
+.main-body {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 1348px;
+    mat-form-field {
+      width: 100%;
+    }
+}
+  
+.action {
+    display: flex;
+    gap: 5px;
+}
+.edit-button {
+  color: black; /* Default color */
+}
+
+.edit-button:hover {
+  background-color: blue; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
+
+/* Add styles for the delete button */
+.delete-button {
+  color: black; /* Default color */
+}
+
+.delete-button:hover {
+  background-color: red; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
+
+
+.mat-cell {
+  text-align: center;
+  width: 100%; // Ensure the cell takes full width
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,331 @@
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.deps.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Persistance.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Application.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Application.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\bin\Debug\net6.0\Domain.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Persistance\obj\Debug\net6.0\ref\Persistance.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Persistance.deps.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Persistance.runtimeconfig.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persista.3F568332.Up2Date
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\Persistance.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Persistance\obj\Debug\net6.0\ref\Persistance.dll

@@ -1,0 +1,1503 @@
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\API.exe
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Application.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Application.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\API.exe
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\API.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Application.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Application.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\API\obj\Debug\net6.0\ref\API.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\refint\API.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\appsettings.Development.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\appsettings.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\API.exe
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\API.deps.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\API.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\API.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\AutoMapper.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\FluentValidation.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Humanizer.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\MediatR.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Polly.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Polly.Core.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Application.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Persistance.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Persistance.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Application.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\bin\Debug\net6.0\Domain.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.csproj.Up2Date
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\API.exe
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\API.deps.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Npgsql.Bulk.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Polly.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Polly.Core.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Application.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Persistance.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Persistance.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Application.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.csproj.Up2Date
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\API\obj\Debug\net6.0\ref\API.dll

@@ -1,0 +1,44 @@
+<div mat-dialog-title>
+  <h1>Product Form</h1>
+</div>
+<form [formGroup]="productForm" (ngSubmit)="onFormSubmit()">
+  <div mat-dialog-content class="content">
+    
+     <!--<div class="row">
+      <mat-form-field appearance="outline">
+        <mat-label>Product ID</mat-label>
+        <input matInput type="text" placeholder="fe4-.." formControlName="id"  />
+      </mat-form-field>
+    </div>-->
+    
+    <div class="row">
+      <mat-form-field appearance="outline">
+        <mat-label>Product Name</mat-label>
+        <input matInput type="text" placeholder="Ex. Widget" formControlName="name" />
+      </mat-form-field>
+    </div>
+
+    <div class="row">
+      <mat-form-field appearance="outline">
+        <mat-label>Description</mat-label>
+        <textarea matInput placeholder="Ex. A useful widget" formControlName="description"></textarea>
+      </mat-form-field>
+    </div>
+
+    <div class="row">
+      <mat-form-field appearance="outline">
+        <mat-label>Price</mat-label>
+        <input matInput type="number" placeholder="Ex. 19.99" formControlName="price" step="0.01" />
+      </mat-form-field>
+      <mat-form-field appearance="outline">
+        <mat-label>Stock</mat-label>
+        <input matInput type="number" placeholder="Ex. 100" formControlName="stock" />
+      </mat-form-field>
+    </div>
+  </div>
+  <div mat-dialog-actions class="action">
+    <button mat-raised-button type="button" [mat-dialog-close]="false">Cancel</button>
+    <button mat-raised-button color="primary" type="submit">{{ data ? 'Update' : 'Save' }}</button>
+    <button *ngIf="data" mat-raised-button color="warn" (click)="onDelete()">Delete</button>
+  </div>
+</form>

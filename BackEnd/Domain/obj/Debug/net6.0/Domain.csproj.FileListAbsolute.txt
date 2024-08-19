@@ -1,0 +1,216 @@
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfreightsure\API\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rouissi Mahdi\source\repos\trackingfrieghtsure\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\tracking\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\GestionParking\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\Clean Arhitecteur\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Stage\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Downloads\DEAMT Architecteur 4\DEAMT Architecteur\DEAMT Architecteur\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\CleanArchitectur\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\bin\Debug\net6.0\Domain.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\Domain.pdb
+D:\stage addinn\CleanArchitectur 1\CleanArchitectur\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Hana Ltefa\Desktop\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO_ADDINN\Desktop\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product - Copie\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Downloads\Projet Product\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product copie\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product intouch\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\stage\travail\back\travail\Projet Product only product - Copie\Projet Product\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\LENOVO\Desktop\fullstuck product management app\BackEnd\Domain\obj\Debug\net6.0\ref\Domain.dll
